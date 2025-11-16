@@ -161,7 +161,7 @@ body {
     width: 40px;
     height: 40px;
     /* Base64 for a simple heart SVG icon (red) */
-    background-image: url('Untitled design (2).png');
+    background-image: url('Untitled design (3).png');
     background-size: cover;
     top: 80px;
     left: 50%;
@@ -313,7 +313,7 @@ body {
     width: 25px;
     height: 25px;
     margin-left: 10px;
-    background-image: url('Untitled design (2).png');
+    background-image: url('Untitled design (3).png');
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
